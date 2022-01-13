@@ -1,4 +1,4 @@
-const app = Vue.createApp({
+const app = Vue.create({
   data() {
     return {
       userInput:''
